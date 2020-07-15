@@ -3,7 +3,8 @@ Displays the Custom table value as output through Macro Expression and Eval Expr
 
 # Installation
 1) You can unzip the CustomTableMacro.zip file which is present under the repository files list.
-2) Then you can unzip this and add both the files under the App_Code folder of your project.
+2) Thereyou will find two files under the CMS/App_Code folder. 
+3) Please add both these files at the same location (CMS-->App_Code) in your project files.
 
 # Author
 This macro is created by @ Systematix Infotech Pvt. Ltd.
@@ -12,7 +13,7 @@ This macro is created by @ Systematix Infotech Pvt. Ltd.
 This is provided under MIT license.
 
 # Reporting issues
-Please report any issues seen, in the issue list. We will address at the earliest possibility. Also you can reach us on @ Systematix Infotech Pvt. Ltd.
+Please report any issues seen in the issue list. We will address at the earliest possibility. Also you can reach us at @Systematix Infotech Pvt. Ltd.
 
 # Compatibility
 This Macro has been tested on Kentico 11 and can be used on any Kentico 11 instance with any level of Hotfix applied. 
