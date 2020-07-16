@@ -2,7 +2,7 @@
 Displays the Custom table value as output through Macro Expression and Eval Expression in Text/XML and ASCX transformation respectively.
 
 # Description
-You can go through the instruction document named <a href="https://github.com/dilip-sipl/CustomTableMacro/blob/master/Custom%20Table%20Macro.docx">Custom Table Macro</a>in the repository.
+You can go through the instructions document named <a href="https://github.com/dilip-sipl/CustomTableMacro/blob/master/Custom%20Table%20Macro.docx">Custom Table Macro</a> in the repository.
 
 # Installation
 1) You can unzip the <a href="https://github.com/dilip-sipl/CustomTableMacro/blob/master/CustomTableMacro.zip"> CustomTableMacro.zip</a> file which is present under the repository files list.
