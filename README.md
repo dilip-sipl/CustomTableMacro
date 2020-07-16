@@ -1,9 +1,12 @@
 # Overview
 Displays the Custom table value as output through Macro Expression and Eval Expression in Text/XML and ASCX transformation respectively.
 
+# Description
+You can go through the instruction document named <a href="https://github.com/dilip-sipl/CustomTableMacro/blob/master/Custom%20Table%20Macro.docx">Custom Table Macro</a>in the repository.
+
 # Installation
-1) You can unzip the CustomTableMacro.zip file which is present under the repository files list.
-2) Thereyou will find two files under the CMS/App_Code folder. 
+1) You can unzip the <a href="https://github.com/dilip-sipl/CustomTableMacro/blob/master/CustomTableMacro.zip"> CustomTableMacro.zip</a> file which is present under the repository files list.
+2) There you will find two files under the CMS/App_Code folder. 
 3) Please add both these files at the same location (CMS-->App_Code) in your project files.
 
 # Author
